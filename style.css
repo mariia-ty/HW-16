@@ -1,5 +1,5 @@
 .bg-box {
-  width: 1200px;
+  width: 1100px;
   height: 650px;
   background-color: green;
   background-image: url(https://img.goodfon.ru/wallpaper/big/0/5b/pole-zelen-trava-dom-derevya.jpg),
@@ -7,6 +7,5 @@
     url(https://avatanplus.com/files/resources/mid/58eb07b830eab15b56162788.png);
   background-repeat: no-repeat, repeat-x, repeat-x, repeat-y, repeat-y;
   background-position: center, bottom, top, left, right;
-  background-size: auto, 20%, 5%, 5%, 5%;
-  padding: 0;
+  background-size: auto, 20%, 4.5%, 4%, 4%;
 }
